@@ -147,7 +147,7 @@ if user_choice1.isdigit() and 1 <= int(user_choice1) <= len(workout_options):
     print(f"You selected: {selected_option}")
 
 
-
+# next steps....
 # person has selected an album and a speed
 # assign bpm ranges to speed choices
 # check every track in that album by using a loop to see which tracks match the right bpm for the speed choice
