@@ -176,7 +176,7 @@ if user_choice1.isdigit() and 1 <= int(user_choice2) <= len(workout_options):
 
 print("  ")
 print(f'So you want to do a {selected_option2} workout using songs from {selected_option1}...')
-print('Here are the tracks I would reccomend:')
+print('Here are the tracks I would recommend:')
 print("   ")
 
 def song_selection():
