@@ -167,7 +167,7 @@ def homepage():
           "2. Show me the length of each album\n"
           "3. Print average album length\n"
           "4. Recommend songs based on album choice and workout speed\n"
-          "5. Recomment songs based on workout speed for all albums in discography\n"
+          "5. Recommend songs based on workout speed for all albums in discography\n"
           "\n")
 
 def menuchoice():
